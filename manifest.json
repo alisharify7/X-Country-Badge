@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "X Country Badge",
+  "version": "1.0",
+  "description": "Shows account_based_in next to username on Twitter/X profiles.",
+  "permissions": [
+    "cookies",
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://x.com/*",
+    "https://*.x.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*", "https://twitter.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
