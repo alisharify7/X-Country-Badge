@@ -16,6 +16,8 @@ A lightweight Chrome extension that detects and displays the **account-based cou
 
 ---
 
+### 🚀 Demo
+
 <img src="./docs/1.jpeg">
 <img src="./docs/2.jpeg">
 
