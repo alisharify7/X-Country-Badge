@@ -16,6 +16,9 @@ A lightweight Chrome extension that detects and displays the **account-based cou
 
 ---
 
+<img src="./docs/1.jpeg">
+<img src="./docs/2.jpeg">
+
 ## ✨ Features
 
 - 🌍 Detects the user's **country** from X internal GraphQL APIs  
