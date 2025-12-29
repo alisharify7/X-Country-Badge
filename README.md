@@ -1,5 +1,17 @@
 # 🇺🇳 X (Twitter) Country Badge Extension with VPN Detection
 
+---
+
+This project was created in response to the government’s distribution of so-called “white SIM cards”, which effectively ignored and bypassed Iranian citizens’ right to free and equal access to the internet.
+
+By enabling clearer visibility into whether accounts are connecting from Iran, this project aims to restore a level of transparency and accountability, making it easier to understand who is genuinely operating from within the country despite imposed restrictions.
+
+read also:
+- https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%85%E2%80%8C%DA%A9%D8%A7%D8%B1%D8%AA_%D8%B3%D9%81%DB%8C%D8%AF
+- https://www.iranintl.com/en/202511248487?source=share-link
+
+---
+
 A lightweight Chrome extension that detects and displays the **account-based country** of an X (Twitter) profile directly on the profile page — with **VPN / Proxy / Warp detection** support.
 
 ---
@@ -91,6 +103,8 @@ Unknown locations fall back to 🏴.
 - For educational and research purposes.
 
 ---
+
+
 
 ## 📄 License
 
